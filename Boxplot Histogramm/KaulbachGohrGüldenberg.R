@@ -15,3 +15,4 @@ ggplot(data = ChickWeight) +
 
 x= "weight"
 y= "Diet"
+
